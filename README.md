@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shubham kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubham-kumar-83b39a168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham kumar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shubhamgodleon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubhamgodleon" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shubhamhppavili1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamhppavili1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/godleon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="godleon" height="30" width="40" /></a>
