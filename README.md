@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-godleon&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-godleon" /> </p>
 
-- 🌱 I’m currently learning **AngularJS**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubham-godleon](https://github.com/shubham-godleon)
 
 - 💬 Ask me about **Web Development, DS ALGO , OOPS , OS ,DBMS**
 
-- 📫 How to reach me **shubhamhppaviliong6@gmil.com**
+- 📫 How to reach me **shubhamhppaviliong6@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ChDPcNeLm9dmnmTYPWX2P-Tc670Kh2SD/view?usp=sharing](https://drive.google.com/file/d/1ChDPcNeLm9dmnmTYPWX2P-Tc670Kh2SD/view?usp=sharing)
 
