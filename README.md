@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shubhamhppaviliong6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ChDPcNeLm9dmnmTYPWX2P-Tc670Kh2SD/view?usp=sharing](https://drive.google.com/file/d/1ChDPcNeLm9dmnmTYPWX2P-Tc670Kh2SD/view?usp=sharing)
+- 📄 Know about my experiences [https://shubham-godleon-portfolio.netlify.app/](https://shubham-godleon-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
